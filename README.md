@@ -30,7 +30,7 @@ The platform provides a centralized shopping experience where users can:
 
 JHAVEN is built with scalability in mind so the current demo catalog can later be replaced with real affiliate APIs, product feeds, databases, and AI services.
 
----
+----
 
 ## 🚀 Key Features
 
