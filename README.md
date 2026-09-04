@@ -8,7 +8,7 @@ Instead of operating as a traditional online store, JHAVEN brings products and o
 
 > **Status:** Active Development / Prototype
 
-----
+---
 
 ## ✨ Overview
 
